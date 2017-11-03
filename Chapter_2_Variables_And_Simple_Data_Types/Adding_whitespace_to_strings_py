@@ -1,0 +1,2 @@
+print "python"
+print "\tpython" #this \t will add space before python#
