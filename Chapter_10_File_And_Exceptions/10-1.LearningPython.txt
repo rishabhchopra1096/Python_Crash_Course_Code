@@ -1,0 +1,5 @@
+#10-1: Learning Python:
+Python can print
+Python can do mathematical operations
+Python can draw shapes
+Python can generate web pages
